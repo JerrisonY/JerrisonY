@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Jerrison</h1>
+<h1>Hi 👋, I'm Jerrison 👨‍💻</h1>
 
 <h3>I'm a passionate front-end developer from Toronto with a background in design</h3>
 
