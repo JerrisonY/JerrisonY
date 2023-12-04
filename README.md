@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Jerrison 👨‍💻</h1>
 
-<h3>I'm a passionate front-end developer from Toronto with a background in design</h3>
+<h3>I'm a passionate front-end developer with a background in design based in Canada</h3>
 
 🎨 As a former designer, I bring a unique perspective to coding. My journey in design fuels my drive to create visually appealing and intuitive interfaces while ensuring they are functional and user-friendly.
 
